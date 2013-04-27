@@ -1,6 +1,8 @@
 BookSales
 =========
 
-Author : LazyChild Sarah
+Author :
+	LazyChild
+	Sarah
 
 The database course project
